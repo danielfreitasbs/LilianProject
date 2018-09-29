@@ -1,0 +1,1 @@
+Não consta do respositório do projeto de vocês o documento de especificação dos requisitos. A entrega deste documento estava agendada para o dia 06/09/2018, conforme tarefa registrada no SIGAA. O Documento de visão do projeto cita alguns requisitos, portanto, deve existir uma documentação relativa a estes requisitos. Regularize isto o quanto antes.
